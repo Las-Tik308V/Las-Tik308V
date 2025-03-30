@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Las-Tik308V&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Las-Tik308&show_icons=true&theme=radical)&nbsp;
+![Las-Tik308V's Stats](https://github-readme-stats.vercel.app/api?username=Las-Tik308V&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
