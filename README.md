@@ -13,4 +13,4 @@
 @LasTik308V
 
 I will be glad to receive any feedback and suggestions for improving my projects.
-![Example GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.pinterest.com%2Fpin%2F710513278691217240%2F&psig=AOvVaw1DRhlvjVcicM7apb5wrI9F&ust=1743421766571000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjQ7f6p3rGMAxUuDhAIHcH4DWcQjRx6BAgAEBk)
+![Example GIF](https://i.pinimg.com/originals/20/8f/26/208f26740e41f572738776c72c2c457d.gif)
